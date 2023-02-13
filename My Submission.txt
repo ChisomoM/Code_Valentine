@@ -1,0 +1,12 @@
+My code is be_my_valentine_plp_challenge\lib\main.dart
+
+It requires the following dependancies:
+  animated_text_kit: ^4.2.2
+  assets_audio_player: ^3.0.6
+  confetti: ^0.7.0
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.11.0
+  google_fonts: ^4.0.3
+  lottie: ^2.2.0
